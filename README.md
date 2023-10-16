@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-You can find some of my Handshake contributions below. (Updated on October 14th 2023)  
+You can find some of my Handshake contributions below. (Updated on October 16th, 2023)  
+
+My blog posts:  
+- [How to setup a listening Handshake node on AWS](http://share.nb/how-to-setup-listening-handshake-node-on-aws)  
+- [How to setup a listening Handshake node on Google Cloud for free](http://share.nb/how-to-setup-listening-handshake-node-on-google-cloud)  
 
 https://github.com/handshake-org/hsd:  
 - https://github.com/handshake-org/hsd/pull/853
